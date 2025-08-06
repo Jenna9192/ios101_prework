@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A8EDA73E190D12C30BC34BF02628B096D82D0252",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A8EDA73E190D12C30BC34BF02628B096D82D0252" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "03CE84C8-C584-4875-A3D3-18450D2530EF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A8EDA73E190D12C30BC34BF02628B096D82D0252" : "ios101_prework\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ios101_prework",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios101_prework.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Jenna9192\/ios101_prework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8EDA73E190D12C30BC34BF02628B096D82D0252"
+    }
+  ]
+}

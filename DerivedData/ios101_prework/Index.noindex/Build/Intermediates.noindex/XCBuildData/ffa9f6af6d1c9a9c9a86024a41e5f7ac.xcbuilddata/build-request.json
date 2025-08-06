@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "a91f613e8f096986567fcd484fc8578c2b7ed04efedbdd0ae8c67a59181d5588"
+    }
+  ],
+  "containerPath" : "/Users/jenna/Documents/ios101_prework/ios101_prework.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jenna/Documents/ios101_prework/DerivedData/ios101_prework/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jenna/Documents/ios101_prework/DerivedData/ios101_prework/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/jenna/Documents/ios101_prework/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jenna/Documents/ios101_prework/DerivedData/ios101_prework/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jenna/Documents/ios101_prework/DerivedData/ios101_prework/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/jenna/Documents/ios101_prework/DerivedData/ios101_prework/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/jenna/Documents/ios101_prework/DerivedData/ios101_prework/Build/Products",
+      "pchPath" : "/Users/jenna/Documents/ios101_prework/DerivedData/ios101_prework/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

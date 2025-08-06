@@ -19,6 +19,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<div>
+    <a href="https://www.loom.com/share/b7c0fec4b7da417e9b8307c3964268f8">
+    </a>
+    <a href="https://www.loom.com/share/b7c0fec4b7da417e9b8307c3964268f8">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b7c0fec4b7da417e9b8307c3964268f8-b291eb5a22e7d6a9-full-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 
 1. Spotify
